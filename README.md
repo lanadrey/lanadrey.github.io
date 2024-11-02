@@ -20,7 +20,7 @@
 
     <section id="about">
         <h2>About Me</h2>
-        <p>Hello! I'm [Your Name], and this is my personal blog where I share my thoughts and experiences.</p>
+        <p>Hey! I'm A, and this is my personal blog where I talk shit, complain share my thoughts n politics, music, fashion and much more.</p>
     </section>
 
     <section id="posts">
